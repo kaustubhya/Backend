@@ -1,0 +1,18 @@
+npm is used to manage all node and expressjs packages
+use node i + tab to detect index.js file, in terminal and do enter to run it
+
+Here we need to start node every time to run our index.js file, which is a hassle.
+
+To solve this and make it automatic use 'Nodemon' package.
+
+do - npm install -g nodemon 
+
+now type nodemon
+
+Now output will show on node terminal each time we save it. 
+other option is to type 'rs' in the terminal.
+
+
+// making servers in backend
+
+
