@@ -15,4 +15,20 @@ other option is to type 'rs' in the terminal.
 
 // making servers in backend
 
+first import http functions, see index.js.
 
+IMP - MAKE SURE THE DIRECTORY IN TERMINAL IS RIGHT - i.e. /c/Backend/NodeJS
+
+// Modules in NodeJS
+
+Everything in NODEJS is a module.
+
+3 types:
+
+1. Built-In module (eg http)
+
+2. Third Party Module (eg nodemon)
+
+3. File Based Module
+
+There can be only 1 export default.
